@@ -105,6 +105,6 @@ Video Walkthrough
 
 A video walkthrough demonstrating the deployment, donation process, withdrawal access control, and testing of the CharityChain smart contract is available below.
 
-- Walkthrough Video: "CharityChain Task 4 Walkthrough" (./CharityChain_Task4_Syamsul_Febrizal.mp4)
+- Walkthrough Video: - **Walkthrough Video:** [Watch CharityChain Task 4 Walkthrough](./CharityChain_Task4_Syamsul_Febrizal.mp4)
 - LinkedIn Post: "CharityChain Task 4 — LinkedIn" (https://www.linkedin.com/posts/syamsul-febrizal-561855412_skillzeno-solidity-blockchain-ugcPost-7520084367889653761-Z2Xh/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGkh-dkB9lX9byo5_h2O8HC-YD8T7JL_46k)
   
